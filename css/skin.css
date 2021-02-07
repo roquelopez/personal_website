@@ -36,7 +36,7 @@ a:hover {
 .btn-primary:hover,
 .blogitem .blogitem-actions a:hover,
 .portfolioitem .portfolioitem-actions a:hover {
-  background-color: #9c383a !important;
+  background-color: white !important;
 }
 #resumenav li.active a,
 .nav-pills > .active > a {
@@ -45,7 +45,7 @@ a:hover {
 }
 .icon-btn,
 .btn-primary {
-  background-color: #ce5252;
+  background-color: white;
 }
 .progress .bar {
   background-color: #ce5252;
